@@ -22,7 +22,7 @@ let ValueInNumber = Number (MarkLevel);
 //"exellent" => NaN
 // "true" => 1 : "false" => 0
 
-``` bolean conversion ```
+``` boolean conversion ```
 
 let IsLoggedIn = "mrhabe3b";
 let booleanIsLoggedIn = Boolean(IsLoggedIn);
