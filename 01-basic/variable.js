@@ -4,7 +4,7 @@ var variblePassword = "123456789";
 let variableState = "Telangana";
 
 
-/* - is the bad practice  */
+/* - It is the bad practice  */
 variableCity ="hyderabad";
 
 //
