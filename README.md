@@ -1,2 +1,2 @@
-# JavaScript-important-series-for-fundamental
+# JavaScript-important-series-of-fundamental
 'simple and  interesting'
