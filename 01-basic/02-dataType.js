@@ -19,6 +19,6 @@ let isloggedIn = false;
 
 //object
 
-console.log(typeof null); //object
+console.log(typeof null); //show "object"
 console.log(typeof undefined);//undefined
 
