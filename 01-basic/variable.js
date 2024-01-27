@@ -1,3 +1,4 @@
+//Welcome to journey of javaScript
 const variableId= 1;
 let variableEmail = "Mrhabe3b@google.com";
 var variblePassword = "123456789";
