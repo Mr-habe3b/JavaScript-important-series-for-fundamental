@@ -53,7 +53,32 @@ const myFunction = function(){
      console.log("welcome to tech world");
 }
 
-console.log(typeof myFunction);//typeof used to known type 
-console.log(superHeroes);//array 
-console.log(myobj);//object 
+// console.log(typeof myFunction);//typeof used to known type 
+// console.log(superHeroes);//array 
+// console.log(myobj);//object 
+
+//````````````Stack memory `````````Heap Memory `````````````
+
+//Stack (primitive), Heap (non-primitive)
+
+let myInstagramName = 'mr_habe3b';
+let anotherName = myInstagramName;
+// In Stack we get copy data { primative types}
+anotherName ="ateeq-feroz"
+
+console.log(myInstagramName);
+console.log(anotherName);
+
+//heap
+
+let userYou = {
+ email:"mrhabe3b@google.com",
+ upi:"user@ybl",
+}
+// reference it changes it original data
+let userMe = userYou
+
+userMe.email= "hello@enjoy.com"
+//out of heap
+console.log(userYou.email);
 
