@@ -1,6 +1,6 @@
 //`````````````````````string```````````````````
 
-const name = "mrhabe3b";
+const name = "mrhabe3b-com-world";
 const repoCount = 50;
 
 //old way of string concatenation 
@@ -43,6 +43,9 @@ const yaadNahiBhai = "  mrhabe3b   ";
 
 const url = "https://mrhabe3b.com/mrhabe3b%100grad";
 
-console.log(url.replace('%100','-'));
-// to known wheather it is there or not
-console.log(url.includes('model')); 
+// console.log(url.replace('%100','-'));
+ // to known wheather it is there or not
+// console.log(url.includes('model'));
+
+//split  'to convert string into array'
+console.log(name.split('-'));
